@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/CRUD-REACT/static/css/main.a6100ba2.chunk.css",
+    "main.js": "/CRUD-REACT/static/js/main.1ac53a49.chunk.js",
+    "main.js.map": "/CRUD-REACT/static/js/main.1ac53a49.chunk.js.map",
+    "runtime-main.js": "/CRUD-REACT/static/js/runtime-main.8c814c24.js",
+    "runtime-main.js.map": "/CRUD-REACT/static/js/runtime-main.8c814c24.js.map",
+    "static/js/2.d1fc1466.chunk.js": "/CRUD-REACT/static/js/2.d1fc1466.chunk.js",
+    "static/js/2.d1fc1466.chunk.js.map": "/CRUD-REACT/static/js/2.d1fc1466.chunk.js.map",
+    "index.html": "/CRUD-REACT/index.html",
+    "static/css/main.a6100ba2.chunk.css.map": "/CRUD-REACT/static/css/main.a6100ba2.chunk.css.map",
+    "static/js/2.d1fc1466.chunk.js.LICENSE.txt": "/CRUD-REACT/static/js/2.d1fc1466.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8c814c24.js",
+    "static/js/2.d1fc1466.chunk.js",
+    "static/css/main.a6100ba2.chunk.css",
+    "static/js/main.1ac53a49.chunk.js"
+  ]
+}
