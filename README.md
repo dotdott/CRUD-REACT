@@ -20,7 +20,4 @@
 - ``git clone https://github.com/dotdott/CRUD-REACT.git crud-react``
 - ``cd crud-react``
 - ``npm install``
-- then you log into server folder
-- ``cd server``
-- ``npm install``
 - After it finishes you can start the app with ``npm start``
