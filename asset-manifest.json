@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/CRUD-REACT/static/css/main.9d6767e2.chunk.css",
-    "main.js": "/CRUD-REACT/static/js/main.387eedfd.chunk.js",
-    "main.js.map": "/CRUD-REACT/static/js/main.387eedfd.chunk.js.map",
-    "runtime-main.js": "/CRUD-REACT/static/js/runtime-main.8c814c24.js",
-    "runtime-main.js.map": "/CRUD-REACT/static/js/runtime-main.8c814c24.js.map",
-    "static/js/2.d1fc1466.chunk.js": "/CRUD-REACT/static/js/2.d1fc1466.chunk.js",
-    "static/js/2.d1fc1466.chunk.js.map": "/CRUD-REACT/static/js/2.d1fc1466.chunk.js.map",
+    "main.css": "/CRUD-REACT/static/css/main.67091482.chunk.css",
+    "main.js": "/CRUD-REACT/static/js/main.eb25d580.chunk.js",
+    "main.js.map": "/CRUD-REACT/static/js/main.eb25d580.chunk.js.map",
+    "runtime-main.js": "/CRUD-REACT/static/js/runtime-main.43155b25.js",
+    "runtime-main.js.map": "/CRUD-REACT/static/js/runtime-main.43155b25.js.map",
+    "static/js/2.9b37f3c9.chunk.js": "/CRUD-REACT/static/js/2.9b37f3c9.chunk.js",
+    "static/js/2.9b37f3c9.chunk.js.map": "/CRUD-REACT/static/js/2.9b37f3c9.chunk.js.map",
     "index.html": "/CRUD-REACT/index.html",
-    "static/css/main.9d6767e2.chunk.css.map": "/CRUD-REACT/static/css/main.9d6767e2.chunk.css.map",
-    "static/js/2.d1fc1466.chunk.js.LICENSE.txt": "/CRUD-REACT/static/js/2.d1fc1466.chunk.js.LICENSE.txt"
+    "static/css/main.67091482.chunk.css.map": "/CRUD-REACT/static/css/main.67091482.chunk.css.map",
+    "static/js/2.9b37f3c9.chunk.js.LICENSE.txt": "/CRUD-REACT/static/js/2.9b37f3c9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8c814c24.js",
-    "static/js/2.d1fc1466.chunk.js",
-    "static/css/main.9d6767e2.chunk.css",
-    "static/js/main.387eedfd.chunk.js"
+    "static/js/runtime-main.43155b25.js",
+    "static/js/2.9b37f3c9.chunk.js",
+    "static/css/main.67091482.chunk.css",
+    "static/js/main.eb25d580.chunk.js"
   ]
 }
